@@ -1,0 +1,10 @@
+C:\Users\Casper\source\repos\benzindepo\benzindepo\bin\Debug\benzindepo.exe.config
+C:\Users\Casper\source\repos\benzindepo\benzindepo\bin\Debug\benzindepo.exe
+C:\Users\Casper\source\repos\benzindepo\benzindepo\bin\Debug\benzindepo.pdb
+C:\Users\Casper\source\repos\benzindepo\benzindepo\obj\Debug\benzindepo.csprojAssemblyReference.cache
+C:\Users\Casper\source\repos\benzindepo\benzindepo\obj\Debug\benzindepo.Form1.resources
+C:\Users\Casper\source\repos\benzindepo\benzindepo\obj\Debug\benzindepo.Properties.Resources.resources
+C:\Users\Casper\source\repos\benzindepo\benzindepo\obj\Debug\benzindepo.csproj.GenerateResource.cache
+C:\Users\Casper\source\repos\benzindepo\benzindepo\obj\Debug\benzindepo.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\benzindepo\benzindepo\obj\Debug\benzindepo.exe
+C:\Users\Casper\source\repos\benzindepo\benzindepo\obj\Debug\benzindepo.pdb
